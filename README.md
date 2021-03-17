@@ -68,7 +68,7 @@ Now time to run our app
 
     php artisan serve
  
-# http://127.0.0.1:8000/ will serve our app in our default browser
+http://127.0.0.1:8000/ will serve our app in our default browser
 
 # Note 
 Some time in your new larevel installation, you can get one issue with  Mix Manifest. Sometime there showing a error that it does not exist. Then Just delete files from 
